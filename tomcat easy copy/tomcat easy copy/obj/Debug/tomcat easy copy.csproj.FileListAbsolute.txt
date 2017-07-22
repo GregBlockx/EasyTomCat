@@ -1,0 +1,18 @@
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\bin\Debug\tomcat easy copy.exe.config
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\bin\Debug\tomcat easy copy.exe
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\bin\Debug\tomcat easy copy.pdb
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy.csprojResolveAssemblyReference.cache
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\MainWindow.g.cs
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\App.g.cs
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy_MarkupCompile.cache
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy_MarkupCompile.lref
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\MainWindow.baml
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy.g.resources
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat_easy_copy.Properties.Resources.resources
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy.csproj.GenerateResource.Cache
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy.exe
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\tomcat easy copy.pdb
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\copyWindow.g.cs
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\copyWindow.baml
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\deleteWindow.g.cs
+C:\Users\greg\Documents\Visual Studio 2015\Projects\tomcat easy copy\tomcat easy copy\obj\Debug\deleteWindow.baml
